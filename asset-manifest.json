@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curdoperation/static/css/main.6a9f668f.css",
+    "main.js": "/curdoperation/static/js/main.6cbdbb72.js",
+    "index.html": "/curdoperation/index.html",
+    "main.6a9f668f.css.map": "/curdoperation/static/css/main.6a9f668f.css.map",
+    "main.6cbdbb72.js.map": "/curdoperation/static/js/main.6cbdbb72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9f668f.css",
+    "static/js/main.6cbdbb72.js"
+  ]
+}
